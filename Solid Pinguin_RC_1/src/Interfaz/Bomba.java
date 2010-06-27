@@ -25,6 +25,9 @@ public class Bomba extends Nodo {
     private boolean accion;
 
     public Bomba() {
+        /*
+         * sdfsdfsdf
+         */
         super(5);
         this.accion = false;
         this.Actualizar = true;
