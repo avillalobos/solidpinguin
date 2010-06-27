@@ -27,6 +27,7 @@ private UsuarioPrinc panelUsuarioPrinc;
 private String Usuario;
 
     /** Creates new form Menuprincipal */
+//vamos a ver ke onda
     public Menuprincipal() throws IOException, Exception {
         initComponents();
         this.setResizable(false);
