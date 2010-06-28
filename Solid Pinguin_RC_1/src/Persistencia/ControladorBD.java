@@ -10,7 +10,7 @@ import java.util.List;
  * Realiza el análisis de los datos obtenidos por la base de datos
  * 
  * @author Vladimir
- * @author andrew
+ * @author Grupo_05
  */
 public class ControladorBD {
 

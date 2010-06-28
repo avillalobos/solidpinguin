@@ -10,7 +10,7 @@ import Logica.Movimiento;
 
 /**
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class ControladorPersonaje {
     private VistaPersonaje VistaPersonaje;

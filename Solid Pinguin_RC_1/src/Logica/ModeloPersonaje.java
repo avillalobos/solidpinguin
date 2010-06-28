@@ -6,7 +6,7 @@ package Logica;
 
 /**
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class ModeloPersonaje {
 

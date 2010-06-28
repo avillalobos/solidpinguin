@@ -12,7 +12,7 @@ import java.awt.image.BufferedImage;
 
 /**
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class Nodo extends Canvas{
 

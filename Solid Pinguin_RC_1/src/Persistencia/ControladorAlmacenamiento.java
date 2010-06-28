@@ -13,7 +13,7 @@ import java.util.List;
  * Controlador que comunica parte de la persistencia entre si, en este caso el enlace entre
  * la bd, los archivos y las imagenes
  * 
- * @author andrew
+ * @author Grupo_05
  */
 public class ControladorAlmacenamiento {
 

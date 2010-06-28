@@ -16,7 +16,7 @@ package Logica;
  * situar en distintos lugares randome cada una de las arenas movedizas y SIEMPRE se llena un
  * nivel primero para luego comenzar a llenar desde uno mas lejos
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class ArenaMovediza {
 

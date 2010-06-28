@@ -11,7 +11,7 @@ package Logica;
  * posiciones reales dentro del frame, posee 2 atributos que son x e y, y es eso lo que
  * representan, los movimientos en X y Y respectivamente.
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class Movimiento {
 

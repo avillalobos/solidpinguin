@@ -10,7 +10,7 @@ import java.util.LinkedList;
 /**
  * Clase archivo creada por Andrés Villalobos, lee y escribe un archivo
  * Al momento de escribir no lo borra escribe luego de lo que ya tiene escrito jajaj es inteligente =)
- * @author andrew
+ * @author Grupo_05
  */
 public class Archivo {
 

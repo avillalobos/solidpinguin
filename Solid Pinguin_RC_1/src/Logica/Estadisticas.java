@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * Clase encargada de transportar los datos del nivel
  * 
- * @author andrew
+ * @author Grupo_05
  */
 public class Estadisticas {
 

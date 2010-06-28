@@ -9,7 +9,7 @@ import java.awt.Image;
 
 /**
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class ListaCircularImagenes {
 
