@@ -13,7 +13,7 @@ import java.io.IOException;
 
 /**
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class PruebaNuevaArenaMovediza {
 

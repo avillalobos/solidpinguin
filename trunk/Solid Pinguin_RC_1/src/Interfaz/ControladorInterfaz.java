@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class ControladorInterfaz {
 

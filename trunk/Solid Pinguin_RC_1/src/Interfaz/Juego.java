@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class Juego extends javax.swing.JFrame {
 

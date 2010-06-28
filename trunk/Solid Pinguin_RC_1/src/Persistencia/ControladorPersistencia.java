@@ -20,7 +20,7 @@ import java.util.List;
  * la de listas con nexoz o arraylist que contienen datos strings, y listas con nexo que contienen
  * hashmap con los datos para subir a la capa de lógica
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class ControladorPersistencia {
 

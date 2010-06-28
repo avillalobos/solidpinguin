@@ -12,7 +12,7 @@ import java.util.HashMap;
  * arraylist
  *
  * @author Vladimir
- * @author andrew
+ * @author Grupo_05
  */
 public class Conexion {
 

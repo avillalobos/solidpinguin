@@ -7,7 +7,7 @@ import java.util.LinkedList;
 /**
  * Clase que controla todo lo necesario para el flujo de datos entre el mapa y el personaje
  * 
- * @author andrew
+ * @author Grupo_05
  */
 public class ModeloMapa {
 

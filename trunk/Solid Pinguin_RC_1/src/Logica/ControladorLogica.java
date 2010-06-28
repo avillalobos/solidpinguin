@@ -15,7 +15,7 @@ import java.util.List;
  * la capa lógica y subirlos a la interfaz para ser representados graficamente
  * en el caso de lo que es lógica del personaje y de las arenas
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class ControladorLogica {
 

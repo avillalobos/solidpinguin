@@ -13,7 +13,7 @@ import java.awt.image.BufferedImage;
 
 /**
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class Salida extends Nodo {
     private ListaCircularImagenes ListaImagenes;

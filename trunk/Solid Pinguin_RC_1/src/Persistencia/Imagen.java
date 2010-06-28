@@ -11,7 +11,7 @@ import java.awt.Toolkit;
 
 /**
  *
- * @author andrew
+ * @author Grupo_05
  */
 public class Imagen {
 
