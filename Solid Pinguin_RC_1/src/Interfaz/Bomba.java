@@ -21,7 +21,8 @@ public class Bomba extends Nodo {
     /**
      * codigos de acción de las piedras
      *      false = la piedra esta quieta o sujeta a algo
-     *      true = la piedra esta cayendo
+     *      true = la piedra esta cayend
+     *
      */
     private boolean accion;
 
