@@ -13,6 +13,11 @@ import java.awt.image.BufferedImage;
 /**
  * 
  *
+ *
+ *
+ *
+ *
+ * 
  * @author Grupo_05
  */
 public class Bomba extends Nodo {
