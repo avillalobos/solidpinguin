@@ -129,7 +129,12 @@ public class ModeloMapa {
         } while (iterator.hasNext());
 
     }
+/**public Estadisticas GenerarEstadisticas(){
 
+
+
+    return ;
+}**/
     public boolean AumentarNivel() {
         this.nivel++;
         if (this.nivel < this.ListaMapas.size()) {
@@ -342,6 +347,7 @@ public class ModeloMapa {
     }
 
     public boolean GameOver() {
+
         return this.GameOver;
     }
 
