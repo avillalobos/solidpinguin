@@ -88,6 +88,7 @@ public class ControladorInterfaz {
 
     public void AvanzarNivel() throws Exception {
         this.ControladorLogica.AumentarNivel();
+        //se pide ke se guarden las estadisticas
         CrearMapa();
         CargarImagenesFrame();
     }
@@ -139,6 +140,7 @@ public class ControladorInterfaz {
     public void ResetNivel() throws Exception{
         this.ControladorLogica.ResetNivel();
         this.Mapa.EliminarImagenes();
+
         CrearMapa();
         CargarImagenesFrame();
     }

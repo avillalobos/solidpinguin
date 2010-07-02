@@ -29,6 +29,7 @@ public class ControladorLogica {
     private ModeloMapa ModeloMapa;
 
     /**
+     *
      * Constructor del controlador de lógica
      */
     public ControladorLogica() throws FileNotFoundException, Exception {
